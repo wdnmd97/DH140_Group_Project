@@ -10,8 +10,8 @@ The spatial scope of our data will be global, as we would like to learn how diff
 
 ### Description of data sources.
 As of now, the datasets we will be using are the Pfizer and BioNTech Vaccine Tweets Dataset and the COVID-19 by country dataset, both are updated daily. The Pfizer and BioNTech Vaccine Tweets Dataset is posted on Kaggle and created by Gabriel Preda, who is a data scientist in Romania. The dataset includes variables such as users’ names, locations, and  their original tweets about the vaccines. The COVID-19 dataset is also posted on Kaggle and includes critical statistics like total cases, deaths and recoveries. The links to the datasets are:
-  *https://www.kaggle.com/gpreda/pfizer-vaccine-tweets
-  *https://www.kaggle.com/jcsantiago/covid19-by-country-with-government-response
+  * https://www.kaggle.com/gpreda/pfizer-vaccine-tweets
+  * https://www.kaggle.com/jcsantiago/covid19-by-country-with-government-response
 
 ### Intended analysis and resulting visualizations.
 Using these datasets, we will analyze the variation of new Twitter users created with respect to time. This is assuming some users who care about the vaccine joined twitter due to the pandemic. This visualization will be a bar graph. We will also perform analysis on the sentiment of the user's tweets with respect to the user location (assume the users are physically at the stated location). The visualization will be a bubble map (size=number of users, color=average sentiment, location=country).
