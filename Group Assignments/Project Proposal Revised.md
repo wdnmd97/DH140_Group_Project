@@ -2,6 +2,8 @@
 ### An introduction of our research question
 Social Media is a large contributor to the spread of information worldwide, and especially younger audiences. We wondered how apps like Twitter contribute to the spread of information about the CoronaVirus Vaccine, and other news regarding the status of the pandemic. We also wonder how social media reflects the socio political climates of various countires and cities, and how such climates may be influencing public opinion towards the vaccine.
 
+Presentation here: https://github.com/wdnmd97/DH140_Group_Project/blob/main/Group%20Assignments/Midterm%20Presentation.ipynb
+
 ### Why does it matter?
 How do users respond to news about the vaccine? Do users in different geographical areas respond differently to news about the vaccine? What demographics of people are getting the vaccine? What demographics aren’t? Does the spread of information influence how successful vaccine distribution is performed? These are some questions that, if answered, can help predict better practices of vaccine distribution. It can also help us relieve public panic, by understanding how to release educational info regarding the CoronaVirus, the vaccine, and the current state of the World Health Organization. By doing so, we hope to understand the steps needed to help more people receive the vaccine faster.
 
